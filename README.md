@@ -11,18 +11,18 @@
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
-|    Member 5     |                         |                        |                 |                                 |  
-|    Member 6     |                         |                        |     Female      |                                 |   
+|   Team Leader   | Visaonth J              |  CB.EN.U4ECE25255      |   Male          |                                 |  
+|    Member 2     | Shrihari S P            |  CB.EN.U4ECE25247      |   Male          |                                 |  
+|    Member 3     | Naresh S                |  CB.EN.U4ECE25236      |   Male          |                                 |  
+|    Member 4     | Sharva Sree M P         |  CB.EN.U4ECE25246      |   Female        |                                 |   
+|    Member 5     | Pavithra M              |  CB.EN.U4ECE25141      |   Female        |                                 |  
+|    Member 6     | Menaakshi K             |  CB.EN.U4ECE25130      |   Female        |                                 |   
 
 #### Mentor Details
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |                     |                       |                         |                          |
+| Academic       | Sowmyaa Vasanth M S |                       |                         |                          |
 | Industry       |                     |                       |                         |                          |
 
 -----
