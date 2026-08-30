@@ -16,13 +16,13 @@
 |    Member 3     | Naresh S                |  CB.EN.U4ECE25236      |   Male          |       B.Tech/ECE                |  
 |    Member 4     | Sharva Sree M P         |  CB.EN.U4ECE25246      |   Female        |       B.Tech/ECE                |   
 |    Member 5     | Pavithra M              |  CB.EN.U4ECE25141      |   Female        |       B.Tech/ECE                |  
-|    Member 6     | Menaakshi K             |  CB.EN.U4ECE25130      |   Female        |       B.Tech/ECE                |   
+|    Member 6     | Meenakshi K             |  CB.EN.U4ECE25130      |   Female        |       B.Tech/ECE                |   
 
 #### Mentor Details
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       | Sowmyaa Vasanth M S | Assistant Professor   |   B.Tech/ECE            |  ms_sowmyaavathsan@cb.amrita.edu     |
+| Academic       | Sowmyaa Vathsan M S | Assistant Professor   |   B.Tech/ECE            |  ms_sowmyaavathsan@cb.amrita.edu     |
 | Industry       |                     |                       |                         |                          |
 
 -----
