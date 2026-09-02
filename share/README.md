@@ -66,3 +66,5 @@ SIH26-A0H-TXXX_Team_Declaration_Internal.pdf
 
 Please upload the signed version in pdf format.
 
+[![
+Belt Joint Rupture & Damage in Iron Ore Mines](https://youtube.com)](https://youtu.be/2Sl4NzUgbc0)
