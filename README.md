@@ -35,6 +35,7 @@
 * **Problem Statement Title:** Belt Joint Rupture and Conveyor Belt Damages in Iron Ore Mining Industry: Intelligent Monitoring and Prediction of Conveyor Belt Joint Rupture and Damages in Iron Ore Mining Industry.
 * **Theme / Category:** Smart Automation / Hardware
 * **Ministry / Organization:** Ministry of Steel
+* **Presentation Video:** https://www.youtube.com/watch?v=2Sl4NzUgbc0
 
 #### PS#2
 
