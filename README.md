@@ -9,21 +9,22 @@
 ### Team Details
 #### **Team Name:** Sergio <br/>
 #### Team Members
-|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
-|:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   | Visaonth J              |  CB.EN.U4ECE25255      |   Male          |       B.Tech/ECE                |  
-|    Member 2     | Shrihari S P            |  CB.EN.U4ECE25247      |   Male          |       B.Tech/ECE                |  
-|    Member 3     | Naresh S                |  CB.EN.U4ECE25236      |   Male          |       B.Tech/ECE                |  
-|    Member 4     | Sharva Sree M P         |  CB.EN.U4ECE25246      |   Female        |       B.Tech/ECE                |   
-|    Member 5     | Pavithra M              |  CB.EN.U4ECE25141      |   Female        |       B.Tech/ECE                |  
-|    Member 6     | Meenakshi K             |  CB.EN.U4ECE25130      |   Female        |       B.Tech/ECE                |   
+
+|      Role       |        👤 Name         |      🎓 Roll Number      |   ⚧️ Gender   | 🏫 Department / Programme | Caste Category | Disability Details |
+|:---------------:|:-----------------------:|:------------------------:|:--------------:|:-------------------------:|:--------------:|:------------------:|
+|   Team Leader   |      Visaonth J        |    CB.EN.U4ECE25255      |     Male      |        B.Tech/ECE           |        BC      |        None        |
+|    Member 2     |      Shrihari S P      |    CB.EN.U4ECE25247      |     Male      |        B.Tech/ECE           |        BC      |        None        |
+|    Member 3     |       Naresh S         |    CB.EN.U4ECE25236      |     Male      |        B.Tech/ECE           |        BC      |        None        |
+|    Member 4     |     Sharva Sree M P    |    CB.EN.U4ECE25246      |    Female     |        B.Tech/ECE           |        BC      |        None        |
+|    Member 5     |       Pavithra M       |    CB.EN.U4ECE25141      |    Female     |        B.Tech/ECE           |        BC      |        None        |
+|    Member 6     |      Meenakshi K       |    CB.EN.U4ECE25130      |    Female     |        B.Tech/ECE           |        OC      |        None        |
 
 #### Mentor Details
 
-|     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
-|:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       | Sowmyaa Vathsan M S | Assistant Professor   |   B.Tech/ECE            |  ms_sowmyaavathsan@cb.amrita.edu     |
-| Industry       |                     |                       |                         |                          |
+|     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID              |
+|:--------------:|:--------------------|:---------------------:|:-----------------------:|:-------------------------------------|
+| Academic       | Sowmyaa Vathsan M S |   Assistant Professor |        B.Tech/ECE       |  ms_sowmyaavathsan@cb.amrita.edu     |
+| Industry       |                     |                       |                         |                                      |
 
 -----
 
@@ -43,3 +44,5 @@
 * **Problem Statement Title:** AI-Based early warning and landslide Risk Monitoring System in NER
 * **Theme / Category:** Disaster Management / Software
 * **Ministry / Organization:** Ministry of Development of North Eastern Region (MDoNER)
+
+* 
